@@ -1,0 +1,2 @@
+Status Detonator collected ; Status TNT collected:; Status delivery Detonator & TNT at location
+False;False;False

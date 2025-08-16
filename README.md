@@ -1,1 +1,4 @@
-# Saxion-Moon-Rover-AI
+# Moon Rover AI
+For the class: 1.4 Project Team Building Challenge
+
+An automated steering system for a moon rover simulation. The code is written entirely using the observer (event-subscribe-listen) design pattern.

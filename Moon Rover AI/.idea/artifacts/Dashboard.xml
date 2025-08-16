@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Dashboard">
+    <output-path>$PROJECT_DIR$/out/artifacts/Dashboard</output-path>
+    <root id="archive" name="Dashboard.jar" />
+  </artifact>
+</component>
