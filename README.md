@@ -10,4 +10,4 @@ https://github.com/user-attachments/assets/399c48eb-b220-481c-abe3-707e60e1c83d
 
 | | |
 | :---: | :---: |
-| ![](/Screenshots/.png) | ![](/Screenshots/.png) |
+| ![](/Screenshots/1-Dashboard.png) | ![](/Screenshots/2-MoonFrog.png) |
